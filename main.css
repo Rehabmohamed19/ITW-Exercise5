@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+.container-fluid {
+  height: 450px;
+  background-color: #0A2640;
+}
+
+.about-title {
+  font-family: "Open Sans", sans-serif;
+}
+
+.story {
+  font-family: "Open Sans", sans-serif;
+  font-family: 200;
+}
+
+.mono {
+  font-family: "Manrope", sans-serif;
+}
+
+.headline {
+  font-family: "Manrope", sans-serif;
+  font-size: 55px;
+}
+
+.gallery .gallery-img {
+  width: 280px;
+}
+
+.cont-2 {
+  background-color: #0A2640;
+}
+
+.links-wrapper li a {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-family: 600;
+}
+
+.login-btn {
+  width: 128px;
+  height: 40px;
+  border: none;
+  padding: 8px, 40px, 8px, 40px;
+  border-radius: 24px;
+}
+
+.text-section {
+  color: white;
+}
+
+.headings {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.b-nav .headline {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.b-nav .paragraph {
+  width: 59%;
+  font-family: "Open Sans", sans-serif;
+  font-family: 200;
+}
+
+.third {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.forth {
+  width: 54%;
+  margin: 0 auto;
+}
+
+.timer {
+  color: #4FE9A4;
+}
+
+.timer h1 {
+  font-family: "Manrope", sans-serif;
+  font-size: 96px;
+  line-height: 56px;
+}
+
+.grey-headline {
+  color: #777777;
+}
+
+.timer h4 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.gallery-card .image-card {
+  border: none;
+}
+
+.white-space {
+  height: 200px;
+}
+
+.image-left {
+  width: 150px;
+  height: 151px;
+}
+
+.fifth {
+  width: 50%;
+}
+
+.card-text {
+  margin: 5px 0 0 36px;
+}
+
+.start-now {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.enterprise {
+  font-family: "Manrope";
+  font-size: 48px;
+}
+
+.email {
+  background-color: white;
+  line-height: 32px;
+  width: 100%;
+  border-radius: 56px;
+}
+
+.start {
+  background-color: #65E4A3;
+  color: #0A2640;
+  line-height: 32px;
+  border-radius: 56px;
+  font-weight: bolder;
+  width: 70%;
+}
+
+.rounded-section {
+  border-radius: 20px;
+}
+
+.footer-end p a {
+  text-decoration: none;
+  list-style-type: none;
+}/*# sourceMappingURL=main.css.map */
